@@ -1,0 +1,1 @@
+Data analytics project for CS910 (MSc Data Analytics, University of Warwick), exploring the movie industry from 1980 to 2020. It involves data cleaning, regression, and classification models to analyze trends in budgets, revenues, and genres. The project identifies key success factors in films. Grade: A.
